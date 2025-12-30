@@ -11,7 +11,7 @@ Desafio técnico para gerenciamento de cupons de desconto.
 ## Tecnologias utilizadas
 
 - Java 21
-- Spring Boot 3.x
+- Spring Boot 3.5.9
 - Spring Data JPA
 - H2 Database
 - Jakarta Validation
